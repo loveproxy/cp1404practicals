@@ -3,7 +3,7 @@ displays the result using the given height and width."""
 
 
 # No external imports or constants needed for this simple example
-
+#
 def main():
     """Main function that orchestrates the program."""
     # Example input values for the height and width
