@@ -31,5 +31,6 @@ def main():
     print_asterisks(password)
 
 
+# this is the main call
 if __name__ == "__main__":
     main()
