@@ -1,4 +1,4 @@
-'''chaoyuyang'''
+'''author chaoyuyang'''
 
 # Set the minimum required length for the password
 min_length = 8
@@ -13,3 +13,5 @@ while len(password) < min_length:
 
 # Print asterisks equal to the length of the password
 print("*" * len(password))
+
+
