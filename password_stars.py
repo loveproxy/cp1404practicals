@@ -1,7 +1,7 @@
 '''author chaoyuyang'''
 
 # Set the minimum required length for the password
-min_length = 8
+min_length = 10
 
 # Ask the user to enter a password
 password = input("Enter a password: ")
