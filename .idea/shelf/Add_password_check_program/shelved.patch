@@ -1,0 +1,407 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"a07f96bd-8c39-4530-b780-df7c8ffc7d4e\" name=\"Default Changelist\" comment=\"\">\r\n      <change afterPath=\"$PROJECT_DIR$/caculate_area.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/password_stars1.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/password_stars.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/password_stars.py\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/password_stars.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"132\">\r\n              <caret line=\"10\" column=\"16\" selection-start-line=\"3\" selection-end-line=\"14\" selection-end-column=\"26\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/password_stars1.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"45\">\r\n              <caret line=\"1\" column=\"7\" lean-forward=\"true\" selection-start-line=\"1\" selection-start-column=\"7\" selection-end-line=\"1\" selection-end-column=\"7\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/caculate_area.py\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"225\">\r\n              <caret line=\"11\" lean-forward=\"true\" selection-start-line=\"11\" selection-end-line=\"11\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/chao_yuyang.py\" />\r\n        <option value=\"$PROJECT_DIR$/caculate_area.py\" />\r\n        <option value=\"$PROJECT_DIR$/password_stars.py\" />\r\n        <option value=\"$PROJECT_DIR$/password_stars1.py\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"x\" value=\"-10\" />\r\n    <option name=\"y\" value=\"-10\" />\r\n    <option name=\"width\" value=\"1750\" />\r\n    <option name=\"height\" value=\"980\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"Scope\" />\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"SandBox\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"SandBox\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n  </component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"D:\\SandBox\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"a07f96bd-8c39-4530-b780-df7c8ffc7d4e\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1738586153708</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1738586153708</updated>\r\n      <workItem from=\"1738586177113\" duration=\"3137000\" />\r\n      <workItem from=\"1738589398889\" duration=\"4022000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Add starter file\">\r\n      <created>1738586893634</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1738586893634</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Add password check program\">\r\n      <created>1738587230169</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1738587230169</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"3\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TimeTrackingManager\">\r\n    <option name=\"totallyTimeSpent\" value=\"7159000\" />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-7\" y=\"-7\" width=\"1550\" height=\"878\" extended-state=\"6\" />\r\n    <editor active=\"true\" />\r\n    <layout>\r\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.2535211\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Favorites\" order=\"2\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Docker\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" visible=\"true\" weight=\"0.3297587\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Database Changes\" order=\"7\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"8\" weight=\"0.3297587\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"9\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"10\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Python Console\" order=\"11\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" id=\"SciView\" order=\"3\" />\r\n      <window_info anchor=\"right\" id=\"Database\" order=\"4\" />\r\n      <window_info anchor=\"right\" id=\"Key Promoter X\" order=\"5\" />\r\n    </layout>\r\n    <layout-to-restore>\r\n      <window_info id=\"Favorites\" order=\"0\" side_tool=\"true\" />\r\n      <window_info active=\"true\" content_ui=\"combo\" id=\"Project\" order=\"1\" visible=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Structure\" order=\"2\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Terminal\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"1\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Database Changes\" order=\"2\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"3\" visible=\"true\" weight=\"0.3297587\" />\r\n      <window_info anchor=\"bottom\" id=\"Python Console\" order=\"4\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"5\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"7\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"8\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"9\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"10\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"11\" />\r\n      <window_info anchor=\"right\" id=\"Database\" order=\"0\" />\r\n      <window_info anchor=\"right\" id=\"SciView\" order=\"1\" />\r\n      <window_info anchor=\"right\" id=\"Key Promoter X\" order=\"2\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"3\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"5\" weight=\"0.25\" />\r\n    </layout-to-restore>\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"RECENTLY_FILTERED_USER_GROUPS\">\r\n                <collection />\r\n              </option>\r\n              <option name=\"RECENTLY_FILTERED_BRANCH_GROUPS\">\r\n                <collection />\r\n              </option>\r\n              <option name=\"COLUMN_ORDER\">\r\n                <list>\r\n                  <option value=\"0\" />\r\n                  <option value=\"1\" />\r\n                  <option value=\"2\" />\r\n                  <option value=\"3\" />\r\n                </list>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_FILTERS\">\r\n      <map>\r\n        <entry key=\"Branch\">\r\n          <value>\r\n            <list />\r\n          </value>\r\n        </entry>\r\n        <entry key=\"User\">\r\n          <value>\r\n            <list />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Add starter file\" />\r\n    <MESSAGE value=\"Add password check program\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Add password check program\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/chao_yuyang.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state>\r\n          <caret column=\"14\" selection-start-column=\"14\" selection-end-column=\"14\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/caculate_area.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"225\">\r\n          <caret line=\"11\" lean-forward=\"true\" selection-start-line=\"11\" selection-end-line=\"11\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/password_stars.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"132\">\r\n          <caret line=\"10\" column=\"16\" selection-start-line=\"3\" selection-end-line=\"14\" selection-end-column=\"26\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/password_stars1.py\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"45\">\r\n          <caret line=\"1\" column=\"7\" lean-forward=\"true\" selection-start-line=\"1\" selection-start-column=\"7\" selection-end-line=\"1\" selection-end-column=\"7\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 632ec0bc3737461925d966fb3bd1fe5fec1bd592)
++++ .idea/workspace.xml	(date 1738643582972)
+@@ -2,10 +2,11 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="a07f96bd-8c39-4530-b780-df7c8ffc7d4e" name="Default Changelist" comment="">
+-      <change afterPath="$PROJECT_DIR$/caculate_area.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/password_stars1.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/REFLEXTIONS.md" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/score_menus.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/scores.py" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/temperatures.py" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/password_stars.py" beforeDir="false" afterPath="$PROJECT_DIR$/password_stars.py" afterDir="false" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+     <option name="SHOW_DIALOG" value="false" />
+@@ -24,11 +25,47 @@
+           </provider>
+         </entry>
+       </file>
+-      <file pinned="false" current-in-tab="true">
++      <file pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/password_stars1.py">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="45">
+-              <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
++            <state relative-caret-position="315">
++              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/temperatures.py">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="236">
++              <caret line="41" selection-start-line="41" selection-end-line="41" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/scores.py">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="1800">
++              <caret line="40" selection-start-line="40" selection-end-line="40" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="false">
++        <entry file="file://$PROJECT_DIR$/score_menus.py">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="236">
++              <caret line="88" selection-start-line="88" selection-end-line="88" />
++            </state>
++          </provider>
++        </entry>
++      </file>
++      <file pinned="false" current-in-tab="true">
++        <entry file="file://$PROJECT_DIR$/REFLEXTIONS.md">
++          <provider selected="true" editor-type-id="text-editor">
++            <state relative-caret-position="675">
++              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+             </state>
+           </provider>
+         </entry>
+@@ -37,7 +74,7 @@
+         <entry file="file://$PROJECT_DIR$/caculate_area.py">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="225">
+-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
++              <caret line="11" selection-start-line="11" selection-end-line="11" />
+             </state>
+           </provider>
+         </entry>
+@@ -61,6 +98,10 @@
+         <option value="$PROJECT_DIR$/caculate_area.py" />
+         <option value="$PROJECT_DIR$/password_stars.py" />
+         <option value="$PROJECT_DIR$/password_stars1.py" />
++        <option value="$PROJECT_DIR$/temperatures.py" />
++        <option value="$PROJECT_DIR$/scores.py" />
++        <option value="$PROJECT_DIR$/score_menus.py" />
++        <option value="$PROJECT_DIR$/REFLEXTIONS.md" />
+       </list>
+     </option>
+   </component>
+@@ -125,7 +166,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1738586153708</updated>
+       <workItem from="1738586177113" duration="3137000" />
+-      <workItem from="1738589398889" duration="4022000" />
++      <workItem from="1738589398889" duration="6373000" />
+     </task>
+     <task id="LOCAL-00001" summary="Add starter file">
+       <created>1738586893634</created>
+@@ -141,23 +182,30 @@
+       <option name="project" value="LOCAL" />
+       <updated>1738587230169</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="Add password check program">
++      <created>1738636965310</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1738636965310</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="7159000" />
++    <option name="totallyTimeSpent" value="9510000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+     <editor active="true" />
+     <layout>
+-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2535211" />
++      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2535211" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+       <window_info id="Favorites" order="2" side_tool="true" />
+       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+       <window_info anchor="bottom" id="Message" order="0" />
+       <window_info anchor="bottom" id="Find" order="1" />
+-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3297587" />
++      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23190348" />
+       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+@@ -257,7 +305,7 @@
+     <entry file="file://$PROJECT_DIR$/caculate_area.py">
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="225">
+-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
++          <caret line="11" selection-start-line="11" selection-end-line="11" />
+         </state>
+       </provider>
+     </entry>
+@@ -270,8 +318,36 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/password_stars1.py">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="45">
+-          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
++        <state relative-caret-position="315">
++          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/temperatures.py">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="236">
++          <caret line="41" selection-start-line="41" selection-end-line="41" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/scores.py">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="1800">
++          <caret line="40" selection-start-line="40" selection-end-line="40" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/score_menus.py">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="236">
++          <caret line="88" selection-start-line="88" selection-end-line="88" />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/REFLEXTIONS.md">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="675">
++          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+         </state>
+       </provider>
+     </entry>
+Index: temperatures.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- temperatures.py	(date 1738643548691)
++++ temperatures.py	(date 1738643548691)
+@@ -0,0 +1,41 @@
++# Function to convert Celsius to Fahrenheit
++def celsius_to_fahrenheit(celsius):
++    """
++    Convert temperature from Celsius to Fahrenheit.
++
++    Parameters:
++        celsius (float): The temperature in Celsius.
++
++    Returns:
++        float: The temperature in Fahrenheit.
++    """
++    return (celsius * 9 / 5) + 32
++
++
++# Function to convert Fahrenheit to Celsius
++def fahrenheit_to_celsius(fahrenheit):
++    """
++    Convert temperature from Fahrenheit to Celsius.
++
++    Parameters:
++        fahrenheit (float): The temperature in Fahrenheit.
++
++    Returns:
++        float: The temperature in Celsius.
++    """
++    return (fahrenheit - 32) * 5 / 9
++
++
++def main():
++    # Example usage
++    celsius = float(input("Enter temperature in Celsius: "))
++    fahrenheit = celsius_to_fahrenheit(celsius)
++    print(f"{celsius}°C is equal to {fahrenheit:.2f}°F")
++
++    fahrenheit_input = float(input("Enter temperature in Fahrenheit: "))
++    celsius_result = fahrenheit_to_celsius(fahrenheit_input)
++    print(f"{fahrenheit_input}°F is equal to {celsius_result:.2f}°C")
++
++
++if __name__ == "__main__":
++    main()
+Index: scores.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- scores.py	(date 1738643548691)
++++ scores.py	(date 1738643548691)
+@@ -0,0 +1,40 @@
++import random
++
++
++def determine_result(score):
++    """
++    Determine the result based on the score.
++
++    Parameters:
++        score (float): The score to evaluate.
++
++    Returns:
++        str: The result (Excellent, Passable, or Bad).
++    """
++    if score >= 90:
++        return "Excellent"
++    elif score >= 50:
++        return "Passable"
++    else:
++        return "Bad"
++
++
++def main():
++    # Ask the user for their score
++    score = float(input("Enter score: "))
++
++    # Call the function to determine the result
++    result = determine_result(score)
++
++    # Print the result
++    print(result)
++
++    # Generate a random score between 0 and 100
++    random_score = random.uniform(0, 100)
++
++    # Print the result for the random score
++    print(f"Random score: {random_score:.2f} - {determine_result(random_score)}")
++
++
++if __name__ == "__main__":
++    main()
+Index: score_menus.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- score_menus.py	(date 1738643548690)
++++ score_menus.py	(date 1738643548690)
+@@ -0,0 +1,88 @@
++import sys
++
++
++def get_valid_score():
++    """
++    Prompt the user to enter a valid score (0 to 100 inclusive)
++    until a valid score is provided.
++
++    Returns:
++        float: A valid score between 0 and 100.
++    """
++    while True:
++        try:
++            score = float(input("Enter a valid score (0-100): "))
++            if 0 <= score <= 100:
++                return score
++            else:
++                print("Score must be between 0 and 100. Please try again.")
++        except ValueError:
++            print("Invalid input. Please enter a number.")
++
++
++def determine_result(score):
++    """
++    Determine the result based on the score.
++
++    Parameters:
++        score (float): The score to evaluate.
++
++    Returns:
++        str: The result ("Excellent", "Passable", or "Bad").
++    """
++    if score >= 90:
++        return "Excellent"
++    elif score >= 50:
++        return "Passable"
++    else:
++        return "Bad"
++
++
++def show_stars(score):
++    """
++    Print a line of stars (*) equal to the integer part of the score.
++
++    Parameters:
++        score (float): The score used to determine the number of stars.
++    """
++    # Convert score to integer to determine number of stars
++    stars = int(score)
++    print("*" * stars)
++
++
++def display_menu():
++    """
++    Display the menu options.
++    """
++    print("\\nMenu")
++    print("(G)et a valid score")
++    print("(P)rint result")
++    print("(S)how stars")
++    print("(Q)uit")
++
++
++def main():
++    # Get an initial valid score
++    score = get_valid_score()
++
++    while True:
++        display_menu()
++        choice = input(">>> ").strip().upper()
++
++        if choice == "G":
++            score = get_valid_score()
++        elif choice == "P":
++            result = determine_result(score)
++            print(f"Result: {result}")
++        elif choice == "S":
++            print("Stars:")
++            show_stars(score)
++        elif choice == "Q":
++            print("Farewell!")
++            sys.exit()
++        else:
++            print("Invalid option, please choose again.")
++
++
++if __name__ == "__main__":
++    main()
+Index: REFLEXTIONS.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- REFLEXTIONS.md	(date 1738643548689)
++++ REFLEXTIONS.md	(date 1738643548689)
+@@ -0,0 +1,19 @@
++# CP1404 Practical Reflection
++
++## What percentage of the lecture videos have you watched so far?
++90%
++
++## What time, location and duration have you scheduled to watch lecture videos?
++I typically watch the videos in the evenings at home. I spend about 1-2 hours per session watching the lectures and reviewing notes.
++
++## What are you doing well in the subject so far that you will keep doing?
++I’m staying on top of the practicals and reviewing the lecture material immediately after watching it. This helps reinforce the concepts and keeps me up to date.
++
++## What do you need to stop or change in your work for this subject overall so far?
++I need to stop procrastinating on completing the assignment tasks. I often wait until the last minute, which causes unnecessary stress.
++
++## What are you currently doing poorly for practicals in this subject that you will change?
++I tend to rush through some of the practical tasks. I will focus on taking more time to understand the problem before starting to code.
++
++## What are you doing really well for practicals in this subject?
++I am good at breaking down the tasks into smaller steps and tackling them methodically. I’ve been consistently completing the practicals and submitting them on time.
